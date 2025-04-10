@@ -20,11 +20,10 @@ This project replicates core functionalities of popular social media platforms, 
 
 
 
-💬 Like and Comment on posts
 
 
 
-🧑‍🤝‍🧑 Follow / Unfollow users
+
 
 
 
@@ -149,10 +148,6 @@ Authentication	Login, Register, Logout using Django auth
 User Profiles	Profile pages with user info and posts
 
 Posting	Create, edit, delete, and view posts
-
-Likes & Comments	Engage with posts
-
-Follow System	Follow and unfollow other users
 
 Admin Panel	Manage users and posts
 
